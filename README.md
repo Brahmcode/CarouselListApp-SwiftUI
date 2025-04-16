@@ -4,22 +4,9 @@
 
 **📦 CarouselListApp Project Architecture Breakdown**
 
-CarouselListApp/
-├── App/
-│   └── CarouselListApp.swift
-├── MVVM/Model/
-│   └── PageItem.swift
-├── MVVM/View/
-│   ├── ContentView.swift
-│   └── StatSheet.swift
-├── MVVM/ViewModel/
-│   └── CarouselListViewModel.swift
-├── Repository/
-│   └── CarouselRepository.swift
-├── Utility/
-│   └── Array+Safe.swift
+<img width="304" alt="Screenshot 2025-04-16 at 3 47 02 PM" src="https://github.com/user-attachments/assets/3d4cf972-8aef-4cfc-b7bf-924f77cf38ae" />
 
-📘 Explanation of Each Section
+📘 **Explanation of Each Section**
 
 1. ✅ @main — App Entry Point
 The @main attribute marks the entry point of the app.
