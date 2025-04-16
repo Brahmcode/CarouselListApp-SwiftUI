@@ -1,13 +1,8 @@
-# CarouselListApp-SwiftUI
+# CarouselListApp SwiftUI
 
 ![Simulator Screenshot - iPhone](https://github.com/user-attachments/assets/9d9f800b-7233-471b-b5e2-630bbca2ce3b)
 
-Project Architecture Breakdown
-//  CarouselListApp
-//
-//  Created by Bhavin on 14/04/25.
-//
-📦 Project Architecture Breakdown
+**📦 CarouselListApp Project Architecture Breakdown**
 
 CarouselListApp/
 ├── App/
